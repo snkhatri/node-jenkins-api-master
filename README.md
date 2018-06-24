@@ -1,3 +1,4 @@
+Added the comments
 nodejs-jenkins-api
 =================
 <p align="center">
